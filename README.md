@@ -52,18 +52,10 @@ This dashboard helps HR teams identify:
 - Features: 32 columns
 
 ## Dashboard Screenshots
-
-### Overview
-![Overview](Overview.png)
-
-### Attrition Analysis
-![Attrition Analysis](Attrition_Analysis.png)
-
-### Risk Analysis
-![Risk Analysis](Risk_Analysis.png)
-
-### Income Analysis
-![Income Analysis](Income_Analysis.png)
+![Overview](overview.png)
+![Attrition Analysis](Attrition%20Analysis.png)
+![Risk Analysis](Risk%20Analysis.png)
+![Income Analysis](Income%20Analysis.png)
 
 ## Connect with me
 - LinkedIn: linkedin.com/in/mallikarjun-karre
